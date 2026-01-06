@@ -1,0 +1,15 @@
+{
+    "cmake.sourceDirectory": "D:/recipe_app/recipe_app/linux",
+
+    // Auto closing brackets - this is what makes ( become ()
+    "editor.autoClosingBrackets": "always",
+
+    // Auto closing quotes
+    "editor.autoClosingQuotes": "always",
+
+    // Auto surrounding selection when typing brackets or quotes
+    "editor.autoSurround": "languageDefined",
+    
+    // This ensures cursor is placed BETWEEN the brackets when they auto-close
+    "editor.cursorSurroundingStyle": "position"
+}
