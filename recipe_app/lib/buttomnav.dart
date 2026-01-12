@@ -23,6 +23,7 @@ class _BottomnavigationState extends State<Bottomnavigation> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+       backgroundColor: Colors.blueGrey,
       appBar: AppBar(title: Text('Recipe app')),
       body: PageView(
         controller: pageController,
